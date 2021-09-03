@@ -15,6 +15,8 @@ plugin= {"pretty","html:C:\\Users\\Ajith\\eclipse-workspace\\CucumberFramework\\
 
 
 public class AdactinHotel {
-	
+	private void sysout() {
+int a=10;
+	}
 	
 }
